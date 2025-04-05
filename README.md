@@ -62,6 +62,16 @@ This keeps your API key out of your codebase.
 
 ---
 
+## 📄 Google Apps Script
+
+The full Google Apps Script powering this app is available in:
+```
+zentask-backend/apps-script/zenTask.gs
+```
+This file is provided for reference. To use it, paste the contents into a Google Apps Script project bound to your Google Sheet, then deploy it as a Web App.
+
+---
+
 ## 🔐 TODO
 
 - Validate inputs
